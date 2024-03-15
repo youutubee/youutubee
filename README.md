@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Machine Learning <br>👯 I’m looking to collaborate on Android Development <br>💬 Ask me about - Android Development ,C++ DSA<br>
+🔭 I’m currently Machine Learning <br>👯 I’m looking to collaborate on Android Development <br>💬 Ask me about - Cyber Security, Android Development ,C++ DSA, Linux<br>
 
 
 ## 🌐 Socials:
